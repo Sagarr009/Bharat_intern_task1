@@ -1,2 +1,3 @@
-# Bharat_intern_task1
-My Bharat intern task 1
+# Bharat intern task 1
+Author - Sagar Gupta
+
